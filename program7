@@ -1,0 +1,43 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+ <title>Inline CSS Example</title>
+</head>
+<body style="background-color:rgba(0, 255, 38, 0.945);">
+ <h1 style="color: blue; text-align: center;">This is a heading with inline CSS</h1>
+ <p style="font-size: 18px; color: rgb(128, 0, 111);">
+ This paragraph uses inline CSS to set its font size and color.
+ </p>
+ <p>AASHIYA FATIMA </p>
+<div style="text-align: center;">
+ <button style="background-color: black; color:white; border: none; padding: 10px 20px; cursor: pointer;">
+ Click Me!
+ </button>
+</div>
+</body>
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body
+{
+ background-color: rgb(230, 232, 250);
+}
+h1
+{
+ color: rgb(0, 128, 6);
+ margin-left: 40px;
+}
+</style>
+</head>
+<body>
+<h1>This is a heading of INTERNAL  CSS  </h1>
+<p>This is  a paragraph   </p>
+</body>
+</html>
+
+
